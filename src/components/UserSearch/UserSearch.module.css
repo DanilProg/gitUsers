@@ -1,9 +1,22 @@
-.card{
-
+.user{
+    display: flex;
+    align-items: center;
 }
+.image{
+margin-right: 15px;
+}
+
 .img{
-
+    width: 64px;
+    height: 64px;
+    border-radius: 50%;
 }
-.inner{
 
+.text{
+    color: white;
+    font-size: 18px;
+}
+.link{
+    color: #ff5c00;
+    cursor: pointer;
 }

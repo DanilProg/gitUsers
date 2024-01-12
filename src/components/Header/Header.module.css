@@ -1,0 +1,36 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 0 15px 0;
+    align-items: center;
+}
+.title{
+    font-size: 28px;
+    color: #FF5533;
+    cursor: pointer;
+    margin-right: 25px;
+}
+.titleContent{
+    display: flex;
+}
+.input{
+    padding: 8px;
+    margin-right:15px;
+    width: 250px;
+    border-radius: 6px;
+    background: #C4C4C4;
+    border: 2px solid rgb(255, 93, 0, 0);
+}
+.input:focus{
+    border: 2px solid #ff5c00;
+}
+.btn{
+    background: #FF5533;
+    width: 88px;
+    font-size: 16px;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 10px;
+    cursor: pointer;
+}

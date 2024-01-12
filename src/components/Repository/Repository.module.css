@@ -1,0 +1,15 @@
+.repositoryInner{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #E5E5E5;
+    padding: 20px;
+}
+.link{
+    margin-bottom: 10px;
+    color: #ff5c00;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.repositoryText{
+    color: #E5E5E5;
+}
